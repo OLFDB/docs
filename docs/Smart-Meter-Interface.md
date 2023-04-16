@@ -2195,10 +2195,10 @@ This meter does not provide detailed information regarding phase etc.
     1,77070100470700ff@1,Amperage L3,A,Amperage_L3_curr,2
     1,770701000e0700ff@1,Frequency,Hz,HZ,2
     1,77070100510704ff@1,Phaseangle I-L1/U-L1,deg,phase_angle_p1,1 
-    1,7707010051070fff@1,Phaseangle I-L2/I-L2,deg,phase_angle_p2,1  
-    1,7707010051071aff@1,Phaseangle I-L3/I-L3,deg,phase_angle_p3,1 
-    1,77070100510701ff@1,Phase angle U-L2/U-L1,deg,phase_angle_l2_l1,1
-    1,77070100510702ff@1,Phase angle U-L3/U-L1,deg,phase_angle_l3_l1,1
+    1,7707010051070fff@1,Phaseangle I-L2/U-L2,deg,phase_angle_p2,1  
+    1,7707010051071aff@1,Phaseangle I-L3/U-L3,deg,phase_angle_p3,1 
+    1,77070100510701ff@1,Phaseangle U-L2/U-L1,deg,phase_angle_l2_l1,1
+    1,77070100510702ff@1,Phaseangle U-L3/U-L1,deg,phase_angle_l3_l1,1
     #
     ```
 
